@@ -1,0 +1,5 @@
+x=input("put in decimal number")
+y=input("put in decimal number")
+x=float(x)
+y=float(y)
+print(x+y)

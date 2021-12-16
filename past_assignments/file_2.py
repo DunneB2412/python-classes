@@ -1,0 +1,12 @@
+a=1
+b=2
+c=3
+d=4
+print(a,b,c,d)
+x=c
+c=a
+a=x
+x=d
+d=b
+b=x
+print(c,d,a,b)

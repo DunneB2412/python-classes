@@ -15,3 +15,22 @@ if __name__ == '__main__':
     print((n % x))
 
     #print(arr[1])
+
+
+# def is_even(i):
+#     return i % 2 == 0
+#
+#
+# if __name__ == '__main__':
+#     i = 0
+#     while (i < 10):
+#         x = 5
+#
+#         # print(i)ccc
+#         i += 1
+#
+#     # print(x)
+#
+#     for i in range(11):
+#         v = 0
+#         # print(i)
